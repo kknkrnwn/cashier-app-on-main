@@ -1,0 +1,6 @@
+{
+  "name": "Point of Sale Kasir Modern",
+  "description": "Sistem Kasir POS Modern untuk Minimarket, Kafe, dan UMKM dengan laporan penjualan, ekspor data, barcode scanner, cetak struk, dan laporannya lengkap.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

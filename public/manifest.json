@@ -1,0 +1,22 @@
+{
+  "short_name": "Kasir Modern",
+  "name": "Point of Sale Kasir Modern Offline",
+  "description": "Sistem Kasir POS Modern Offline untuk Minimarket, Kafe, dan UMKM",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1473187983305-f615310e7daa?w=192&auto=format&fit=crop&q=60",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1473187983305-f615310e7daa?w=512&auto=format&fit=crop&q=60",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#059669",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait"
+}
