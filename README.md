@@ -201,7 +201,7 @@ npm run lint
 
 ### Dashboard
 
-<img width="954" height="446" alt="image" src="https://github.com/user-attachments/assets/5a452329-30ca-4801-8704-acf9b35484a9" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/5a452329-30ca-4801-8704-acf9b35484a9" />
 
 ### Transaction Page
 
